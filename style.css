@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+img {
+    text-align: center;
+}
+img:hover {
+    transform: scale(0.9)
+}
